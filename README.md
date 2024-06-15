@@ -8,7 +8,7 @@
 |----|-----|-------|
 |Stable|[GitHub](https://github.com/PastKNIGHT/IGW/releases/tag/Stable)||
 |Experimental|[GitHub](https://github.com/PastKNIGHT/IGW/releases/tag/Experimental)||
-|Stable - Исходный код|[GitHub](https://github.com/PastKNIGHT/IGW/tree/main/Improved%20Group%20Warfare%20-%20Stable/gamedata/configs/misc)||
+|Stable - Исходный код|[GitHub](https://github.com/PastKNIGHT/IGW/tree/main/Improved%20Group%20Warfare%20-%20Stable%20(11.06.2024))||
 |Experimental - Исходный код|[GitHub](https://github.com/PastKNIGHT/IGW/tree/main/Improved%20Group%20Warfare%20-%20Experimental%20(11.06.2024))||
 
 Проводилась полная проверка версий:
