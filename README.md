@@ -11,10 +11,6 @@
 |Stable - Исходный код|[GitHub](https://github.com/PastKNIGHT/IGW/tree/main/Improved%20Group%20Warfare%20-%20Stable%20(11.06.2024))||
 |Experimental - Исходный код|[GitHub](https://github.com/PastKNIGHT/IGW/tree/main/Improved%20Group%20Warfare%20-%20Experimental%20(11.06.2024))||
 
-Проводилась полная проверка версий:
-- [x] Stable
-- [ ] Experimental
-
 # Установка:
 1. Скачать и установить чистую S.T.A.L.K.E.R.: Clear Sky с патчем 1.5.10.
 2. Скачать Improved Group Warfare. Выбрать одну из веток Stable или Experimental.
