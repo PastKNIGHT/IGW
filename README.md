@@ -6,7 +6,7 @@
 
 # Установка:
 1. Скачать и установить чистую S.T.A.L.K.E.R.: Clear Sky с патчем 1.5.10.
-2. Скачать Improved Group Warfare. Выбрать одну из веток Stable или Experimental.
+2. Скачать Improved Group Warfare. Выбрать одну из веток Stable, Experimental или Alpha.
 3. Выбираем Традиционная геймдата или Файлы в .db формате
 4. Играть
 ## Традиционная геймдата: папку gamedata переместить в папку с игрой.
